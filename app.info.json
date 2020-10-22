@@ -1,12 +1,12 @@
 {
   "app_name": "image-builder",
-  "src_hash": "404a80e59c0951c8de3fb595c385cbf529d52ff9",
+  "src_hash": "ea09205a27586e492152030bbb54379a6a950ede",
   "src_tag": "",
   "src_branch": "master",
   "patternfly_dependencies": ["@patternfly/patternfly@2.71.0","@patternfly/react-core@3.134.2","@patternfly/react-table@2.28.10"],
   "travis": {
     "event_type": "push",
-    "build_number": "15",
-    "build_web_url": "https://travis-ci.org/osbuild/image-builder-frontend/builds/729314011"
+    "build_number": "19",
+    "build_web_url": "https://travis-ci.org/osbuild/image-builder-frontend/builds/737955211"
   }
 }

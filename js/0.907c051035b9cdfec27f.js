@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{687:function(n,o,e){"use strict";var p=e(399);var t={updateCompose:function(n){return{type:p.a.UPDATE_COMPOSE,compose:n}}};e.d(o,"a",(function(){return t}))}}]);
-//# sourceMappingURL=0.907c051035b9cdfec27f.js.map

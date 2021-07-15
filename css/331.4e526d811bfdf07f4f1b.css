@@ -1,0 +1,2 @@
+.image-builder .error,body .error{color:var(--pf-global--danger-color--100)}.image-builder .success,body .success{color:var(--pf-global--success-color--100)}.image-builder .pending,body .pending{color:var(--pf-global--info-color--100)}
+.image-builder .title,body .title{display:inline}.image-builder .pf-c-form__group-label-help,body .pf-c-form__group-label-help{color:var(--pf-global--icon--Color--light)}.image-builder .pf-c-form__group-label-help:active,body .pf-c-form__group-label-help:active{color:var(--pf-global--icon--Color--dark)}

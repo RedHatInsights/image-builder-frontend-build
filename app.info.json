@@ -1,13 +1,13 @@
 {
   "app_name": "image-builder",
-  "src_hash": "989d5fabac18425a041e56989a8e31c71578e590",
+  "src_hash": "562adf33b25a2ac585f690f327bb5edfac5babaf",
   "src_tag": "",
   "src_branch": "main",
-  "patternfly_dependencies": ["@patternfly/patternfly@4.159.1","@patternfly/react-core@4.181.1","@patternfly/react-table@4.50.1"],
+  "patternfly_dependencies": ["@patternfly/patternfly@4.164.2","@patternfly/react-core@4.181.1","@patternfly/react-table@4.50.1"],
   "rh_cloud_services_dependencies": ["@redhat-cloud-services/frontend-components-notifications@3.2.5","@redhat-cloud-services/frontend-components-utilities@3.2.6","@redhat-cloud-services/frontend-components@3.5.1"],
   "travis": {
     "event_type": "push",
-    "build_number": "1640",
-    "build_web_url": "https://app.travis-ci.com/RedHatInsights/image-builder-frontend/builds/244503260"
+    "build_number": "1642",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/image-builder-frontend/builds/244503452"
   }
 }

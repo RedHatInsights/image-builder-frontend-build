@@ -8,7 +8,7 @@
   "rh_cloud_services_dependencies": ["@redhat-cloud-services/frontend-components-notifications@3.2.5","@redhat-cloud-services/frontend-components-utilities@3.2.12","@redhat-cloud-services/frontend-components@3.8.3"],
   "travis": {
     "event_type": "push",
-    "build_number": "2146",
-    "build_web_url": "https://app.travis-ci.com/RedHatInsights/image-builder-frontend/builds/249001514"
+    "build_number": "2228",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/image-builder-frontend/builds/249688797"
   }
 }

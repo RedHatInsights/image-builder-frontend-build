@@ -1,10 +1,10 @@
 {
     "imageBuilder": {
         "entry": [
-            "/beta/apps/image-builder/imageBuilder.ef78c197d56c22f100b4.js"
+            "/beta/apps/image-builder/imageBuilder.b5122f8cc7e05be66019.js"
         ],
         "modules": [
-            "/beta/apps/image-builder/js/412.ef78c197d56c22f100b4.js"
+            "/beta/apps/image-builder/js/412.b5122f8cc7e05be66019.js"
         ]
     }
 }

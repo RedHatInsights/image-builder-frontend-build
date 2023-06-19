@@ -1,10 +1,11 @@
 {
-    "imageBuilder": {
-        "entry": [
-            "/beta/apps/image-builder/imageBuilder.2fff7cd54cb5a21b1465.js"
-        ],
-        "modules": [
-            "/beta/apps/image-builder/js/412.2fff7cd54cb5a21b1465.js"
-        ]
-    }
+  "name": "imageBuilder",
+  "version": "1.0.0",
+  "extensions": [],
+  "registrationMethod": "callback",
+  "baseURL": "/beta/apps/image-builder/",
+  "loadScripts": [
+    "imageBuilder.2a37ce725a25d8123f0e.js"
+  ],
+  "buildHash": "2a37ce725a25d8123f0e519191bd931c"
 }

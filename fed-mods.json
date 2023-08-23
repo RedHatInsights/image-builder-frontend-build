@@ -5,7 +5,7 @@
   "registrationMethod": "callback",
   "baseURL": "/apps/image-builder/",
   "loadScripts": [
-    "imageBuilder.9ac1e4863b5305773965.js"
+    "imageBuilder.4755fb0b324f10f8c7aa.js"
   ],
-  "buildHash": "9ac1e4863b530577396521b4a0f08862"
+  "buildHash": "4755fb0b324f10f8c7aaf9df6a14338e"
 }
